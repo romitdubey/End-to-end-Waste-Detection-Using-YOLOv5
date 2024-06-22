@@ -24,6 +24,7 @@ list_of_files=[
     f"src/{project_name}/pipeline/training_pipeline.py",
     f"src/{project_name}/utils/__init_.py",
     f"src/{project_name}/utils/main_utils.py",
+    "research/trails.ipynb",
     "templates/index.html",
     "app.py",
     "Dockerfile",
